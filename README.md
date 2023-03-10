@@ -32,7 +32,7 @@ SO THAT I can keep a list of books to purchase
 N/A
 ## Usage
 
-[Link to deployed application.]() <br>
+[Link to deployed application.](https://book-search-engine-mern-crzn24.herokuapp.com/) <br>
 [Repository](https://github.com/crzn24/book-search-engine-mern.git) <br>
 
 ![App screenshot](./client/src/assets/images/book-search-engine-mern.png)
